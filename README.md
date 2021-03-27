@@ -3,7 +3,7 @@ Demonstrating continuous integration of hdl codes using travis-ci
 
 This badge is a live build status on travis-ci:
 
-[![Build Status](https://travis-ci.org/raczben/travis-hdl.svg?branch=master)](https://travis-ci.org/raczben/travis-hdl)
+[![Build Status](https://travis-ci.com/lukipedio/travis-hdl.svg?branch=master)](https://travis-ci.com/lukipedio/travis-hdl)
 [![License: GPL v3](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
